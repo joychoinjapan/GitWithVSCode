@@ -3,3 +3,4 @@ const test2 = "second commit";
 const test3 = "test push";
 const test4 = "test commit4";
 const hoge = "local";
+const hoge2 = "remote"
